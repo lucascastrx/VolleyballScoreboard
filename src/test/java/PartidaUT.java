@@ -15,7 +15,11 @@ public class PartidaUT {
         Equipe timeA = new Equipe("AFK");
         Equipe timeB = new Equipe("CFG");
 
-        Partida partida = new Partida(); 
+        /*************************************/
+
+
+
+        Partida partida = new Partida();
         partida.setTimeA(timeA);
         partida.setTimeB(timeB);
 
