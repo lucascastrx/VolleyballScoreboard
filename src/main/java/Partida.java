@@ -3,6 +3,9 @@ import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
+/**
+ * @author Lucas Castro
+ */
 public class Partida {
 
     private Equipe timeA;

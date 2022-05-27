@@ -4,6 +4,9 @@ import org.junit.jupiter.api.Test;
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
 
+/**
+ * @author Lucas Castro
+ */
 public class PartidaUT {
 
 
@@ -15,7 +18,7 @@ public class PartidaUT {
         Equipe timeA = new Equipe("AFK");
         Equipe timeB = new Equipe("CFG");
 
-        /*************************************/
+
 
 
 

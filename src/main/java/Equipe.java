@@ -1,3 +1,6 @@
+/**
+ * @author Lucas Castro
+ */
 public class Equipe {
 
     private String nome;
